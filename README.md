@@ -1,5 +1,5 @@
 # Color Picker 
-# by: FarenHalts
+by: FarenHalts
 
 ## Install all dependencies
 ```
