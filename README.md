@@ -1,11 +1,27 @@
-# colorpicker
+# Color Picker 
+# by: FarenHalts
 
-## Project setup
+## Install all dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run project for development
+```
+npm start
+```
+
+### Run project for development using Docker
 ```
 npm run serve
+```
+
+### Generate distribution file
+```
+npm run build
+```
+
+### Check code integrity
+```
+npm run lint
 ```
