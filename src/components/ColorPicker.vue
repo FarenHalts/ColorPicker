@@ -17,8 +17,7 @@
           class="square-picker__selectable__color"
           :style="`background-color: ${item.color}`"
           @click="changeColor(item)"
-        >
-        </div>
+        />
       </div>
     </div>
   </div>
