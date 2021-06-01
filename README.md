@@ -12,6 +12,7 @@ npm start
 ```
 
 ### Run project for development using Docker
+download docker: https://docs.docker.com/engine/install/
 ```
 npm run serve
 ```
