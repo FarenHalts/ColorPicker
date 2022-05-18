@@ -1,5 +1,6 @@
 # Color Picker
 You can access this project running on: https://color-picker-farenhalts.herokuapp.com/
+
 by: FarenHalts
 
 ## Install all dependencies
