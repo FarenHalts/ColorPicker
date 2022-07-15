@@ -1,5 +1,5 @@
 # Color Picker
-You can access this project running on: https://color-picker-farenhalts.herokuapp.com/
+You can access this project running on: [Games Store e-commerce](https://farenhalts-gamecommerce.herokuapp.com/)
 
 by: FarenHalts
 
