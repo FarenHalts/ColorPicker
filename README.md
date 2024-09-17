@@ -1,5 +1,5 @@
 # Color Picker
-You can access this project running on: [Color Picker](https://color-picker-farenhalts.herokuapp.com)
+You can access this project running on: [Color Picker](https://color-picker-lemon-pi.vercel.app)
 
 by: FarenHalts
 
